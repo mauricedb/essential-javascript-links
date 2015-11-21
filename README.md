@@ -201,6 +201,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [react.rocks](http://react.rocks/) Pinterest-style directory of online demos with available code
 * [TodoMVC in React](http://todomvc.com/examples/react/) #example
 * [JSX Specification](http://facebook.github.io/jsx/) #documentation
+* [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 
 ## Relay & GraphQL
 
